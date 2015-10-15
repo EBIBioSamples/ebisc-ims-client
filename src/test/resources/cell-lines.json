@@ -1,0 +1,1593 @@
+{
+  "meta": {
+    "limit": 50,
+    "next": "/api/v0/cell-lines?limit=50&offset=50",
+    "offset": 0,
+    "previous": null,
+    "total_count": 96
+  },
+  "objects": [
+    {
+      "alternative_names": [
+        "HPSI0913i-kojv_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2397798",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2399013",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi034-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2397798"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-wopl_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2398080",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398611",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi039-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2398080"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-garx_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2398552",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398675",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi029-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2398552"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-aetc_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2398632",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398781",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi033-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2398632"
+    },
+    {
+      "alternative_names": [
+        "HPSI0913i-gooj_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2398905",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398825",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi035-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2398905"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-jufd_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2399463",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398326",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi042-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2399463"
+    },
+    {
+      "alternative_names": [
+        "HPSI1113i-bima_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2433568",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2399246",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi032-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2433568"
+    },
+    {
+      "alternative_names": [
+        "HPSI1113i-ieki_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2445787",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi038-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2445787"
+    },
+    {
+      "alternative_names": [
+        "HPSI1113i-hayt_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2445790",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi006-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2445790"
+    },
+    {
+      "alternative_names": [
+        "HPSI1213i-babk_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2459959",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2397964",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi028-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2459959"
+    },
+    {
+      "alternative_names": [
+        "HPSI1113i-dons_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2459961",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398192",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi007-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2459961"
+    },
+    {
+      "alternative_names": [
+        "HPSI1113i-qolg_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2464810",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi004-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2464810"
+    },
+    {
+      "alternative_names": [
+        "HPSI1113i-waus_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2469767",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2399191",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi036-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2469767"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-pamv_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2474458",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi025-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2474458"
+    },
+    {
+      "alternative_names": [
+        "HPSI1213i-hehd_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2518322",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398854",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi003-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2518322"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-bezi_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2518325",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398810",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi041-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2518325"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-wuye_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2518332",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi021-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2518332"
+    },
+    {
+      "alternative_names": [
+        "HPSI1113i-podx_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2533339",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi005-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2533339"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-lexy_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2536404",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2399225",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi017-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2536404"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-iisa_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2536410",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398646",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi019-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2536410"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-zoxy_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2536413",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2399102",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi037-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2536413"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-eipl_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2536417",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398480",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi020-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2536417"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-kolf_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2547615",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398402",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi018-B",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2547615"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-kuxp_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2547622",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398105",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi008-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2547622"
+    },
+    {
+      "alternative_names": [
+        "HPSI1213i-pahc_4"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2547633",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398906",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi001-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2547633"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-kolf_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2547644",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398402",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi018-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2547644"
+    },
+    {
+      "alternative_names": [
+        "HPSI0913i-oapg_5"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2547899",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398721",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi027-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2547899"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-rozh_5"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2555012",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi015-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2555012"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-zapk_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2570432",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2397995",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi023-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2570432"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-oevr_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2570435",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398720",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi016-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2570435"
+    },
+    {
+      "alternative_names": [
+        "HPSI0913i-eika_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2590621",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398874",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi002-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2590621"
+    },
+    {
+      "alternative_names": [
+        "LB-34-1",
+        "iLB-MJD4-34m-r1"
+      ],
+      "batches": [
+        {
+          "batch_id": "P001",
+          "biosamples_id": "SAMEG301734",
+          "certificate_of_analysis": {
+            "file": "celllines/2015/10/14/59436fd9-4cde-468b-8e23-1ef0b0b2d42c/UKBi008-A.P001.CoA.pdf",
+            "md5": "05c14fc167c0a946665670846f485492"
+          },
+          "culture_conditions": {
+            "co2_concentration": "5%",
+            "culture_medium": "mTeSTR",
+            "matrix": "Matrigel / Geltrex",
+            "o2_concentration": "21%",
+            "passage_method": "EDTA",
+            "temperature": "37C"
+          },
+          "images": [
+            {
+              "image_file": "/media/celllines/2015/10/14/e67495ba-696a-42d1-81f3-92f3f37e38ea/20141007%20UKBi-008A%20P3%20x10%20Confluence.jpg",
+              "image_md5": "f955efc0e5f37878bf1f8feca7e258fe",
+              "magnification": "10x",
+              "time_point": "Confluence"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/2d0c57db-e6a3-4852-87b2-70090dc1a895/20141005%20UKBi008-A%20x4%2048hrs%20po_HAsWBs9.jpg",
+              "image_md5": "5f9b9b0818456ffec90e8911d9405ae3",
+              "magnification": "4x",
+              "time_point": "48 hours post-passage"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/e9368966-1ff1-4421-931d-c0992d33dc49/20141005%20UKBi008-A%20x10%2048hrs%20p_ibRP2s4.jpg",
+              "image_md5": "17fedc0a2e8d58c6db3f96a8e6e21791",
+              "magnification": "10x",
+              "time_point": "48 hours post-passage"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/0607c2ce-44e0-40de-b24f-d175b5f9ef72/20141007%20UKBi-008A%20P3%20x4%20Confluence.jpg",
+              "image_md5": "87a520c2a822ab95acc32de5e803ec64",
+              "magnification": "4x",
+              "time_point": "Confluence"
+            }
+          ],
+          "resource_uri": "/api/v0/batches/SAMEG301734",
+          "vials_at_roslin": 0,
+          "vials_shipped_to_ecacc": 19,
+          "vials_shipped_to_fraunhoffer": 5
+        }
+      ],
+      "biosamples_id": "SAMEA2590882",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Universitätsklinikum Bonn"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2590985",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": "66540003",
+      "name": "UKBi008-A",
+      "primary_cell_type": {
+        "name": "Dermal Fibroblasts"
+      },
+      "primary_disease": {
+        "doid": "DOID:1440",
+        "name": "Machado-Joseph disease",
+        "synonyms": [
+          "Azorean disease (disorder)",
+          "MJD",
+          "spinocerebellar ataxia type 3"
+        ]
+      },
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": {
+        "data": {
+          "absence_reprogramming_vectors": false,
+          "excisable": false,
+          "vector": "Virus",
+          "virus": "Retrovirus"
+        },
+        "type": "Integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2590882"
+    },
+    {
+      "alternative_names": [
+        "LB-35-1",
+        "iLB-C-35m-r1"
+      ],
+      "batches": [
+        {
+          "batch_id": "P001",
+          "biosamples_id": "SAMEG301735",
+          "certificate_of_analysis": null,
+          "culture_conditions": {
+            "co2_concentration": "5%",
+            "culture_medium": "mTeSTR",
+            "matrix": "Matrigel / Geltrex",
+            "o2_concentration": "21%",
+            "passage_method": "EDTA",
+            "temperature": "37C"
+          },
+          "images": [],
+          "resource_uri": "/api/v0/batches/SAMEG301735",
+          "vials_at_roslin": 0,
+          "vials_shipped_to_ecacc": 19,
+          "vials_shipped_to_fraunhoffer": 5
+        }
+      ],
+      "biosamples_id": "SAMEA2590936",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Universitätsklinikum Bonn"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2590892",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": "66540004",
+      "name": "UKBi006-A",
+      "primary_cell_type": {
+        "name": "Dermal Fibroblast"
+      },
+      "primary_disease": {
+        "doid": null,
+        "name": "control",
+        "synonyms": []
+      },
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": {
+        "data": {
+          "absence_reprogramming_vectors": false,
+          "excisable": false,
+          "vector": "Virus",
+          "virus": "Retrovirus"
+        },
+        "type": "Integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2590936"
+    },
+    {
+      "alternative_names": [
+        "iLB-C2-36m-r2"
+      ],
+      "batches": [
+        {
+          "batch_id": "P001",
+          "biosamples_id": "SAMEG301736",
+          "certificate_of_analysis": null,
+          "culture_conditions": {
+            "co2_concentration": "5%",
+            "culture_medium": "mTeSTR",
+            "matrix": "Matrigel / Geltrex",
+            "o2_concentration": "21%",
+            "passage_method": "EDTA",
+            "temperature": "37C"
+          },
+          "images": [],
+          "resource_uri": "/api/v0/batches/SAMEG301736",
+          "vials_at_roslin": 0,
+          "vials_shipped_to_ecacc": 18,
+          "vials_shipped_to_fraunhoffer": 5
+        }
+      ],
+      "biosamples_id": "SAMEA2590957",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Universitätsklinikum Bonn"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2591001",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": "66540005",
+      "name": "UKBi002-A",
+      "primary_cell_type": {
+        "name": "Dermal Fibroblast"
+      },
+      "primary_disease": {
+        "doid": null,
+        "name": "control",
+        "synonyms": []
+      },
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": {
+        "data": {
+          "absence_reprogramming_vectors": false,
+          "excisable": false,
+          "vector": "Virus",
+          "virus": "Retrovirus"
+        },
+        "type": "Integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2590957"
+    },
+    {
+      "alternative_names": [
+        "HPSI0913i-diku_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2593858",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398076",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi009-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2593858"
+    },
+    {
+      "alternative_names": [
+        "HPSI0114i-vabj_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2595426",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398765",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi024-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2595426"
+    },
+    {
+      "alternative_names": [
+        "HPSI1013i-yemz_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2613912",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi022-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2613912"
+    },
+    {
+      "alternative_names": [
+        "iLB-MJD2-29m-r2"
+      ],
+      "batches": [
+        {
+          "batch_id": "SAMEG301731",
+          "biosamples_id": "SAMEG301731",
+          "certificate_of_analysis": null,
+          "culture_conditions": null,
+          "images": [],
+          "resource_uri": "/api/v0/batches/SAMEG301731",
+          "vials_at_roslin": null,
+          "vials_shipped_to_ecacc": null,
+          "vials_shipped_to_fraunhoffer": null
+        }
+      ],
+      "biosamples_id": "SAMEA2614016",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Universitätsklinikum Bonn"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2614020",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "UKBi001-A",
+      "primary_cell_type": {
+        "name": "Dermal Fibroblast"
+      },
+      "primary_disease": {
+        "doid": "DOID:1440",
+        "name": "Machado-Joseph disease",
+        "synonyms": [
+          "Azorean disease (disorder)",
+          "MJD",
+          "spinocerebellar ataxia type 3"
+        ]
+      },
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": {
+        "data": {
+          "absence_reprogramming_vectors": false,
+          "excisable": false,
+          "vector": "Virus",
+          "virus": "Retrovirus"
+        },
+        "type": "Integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2614016"
+    },
+    {
+      "alternative_names": [
+        "LB-32-r9",
+        "iLB-MJD1-32m-r9"
+      ],
+      "batches": [
+        {
+          "batch_id": "P001",
+          "biosamples_id": "SAMEG301733",
+          "certificate_of_analysis": {
+            "file": "celllines/2015/10/14/10f9c630-fd1b-47cf-bdd3-0df0f80c4af1/UKBi003-A.P001.CoA.pdf",
+            "md5": "90f078132efb0ee86d86b9a901bdfeaf"
+          },
+          "culture_conditions": {
+            "co2_concentration": "5%",
+            "culture_medium": "mTeSTR",
+            "matrix": "Matrigel / Geltrex",
+            "o2_concentration": "21%",
+            "passage_method": "EDTA",
+            "temperature": "37C"
+          },
+          "images": [
+            {
+              "image_file": "/media/celllines/2015/10/14/0efa4d74-fafa-41db-aeb3-f249e704ab3b/20141005%20UKBi003-A%20P3%20x4%2048hr.jpg",
+              "image_md5": "04e1e5f7092c789e146cb4511d4d0593",
+              "magnification": "4x",
+              "time_point": "48 hours post-passage"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/127a561b-66e7-4aa8-8fac-9666971e3ee9/20141005%20UKBi003-A%20P3%20x10%2048hr.jpg",
+              "image_md5": "96664ee42382df238833552e47ee9b08",
+              "magnification": "10x",
+              "time_point": "48 hours post-passage"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/de739458-47e2-40fc-90df-1c4bbd424b5b/20141007%20UKBi003-A%20P3%20x4%20confluence.jpg",
+              "image_md5": "5aae6f73fe849d293801d471d5c10a1c",
+              "magnification": "4x",
+              "time_point": "Confluence"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/e3144d47-b81e-48d9-9523-406fbaa6d087/20141007%20UKBi003-A%20P3%20x10%20confluence.jpg",
+              "image_md5": "e578bcdeeb8498782abb05bdaf436247",
+              "magnification": "10x",
+              "time_point": "Confluence"
+            }
+          ],
+          "resource_uri": "/api/v0/batches/SAMEG301733",
+          "vials_at_roslin": 2,
+          "vials_shipped_to_ecacc": 19,
+          "vials_shipped_to_fraunhoffer": 5
+        }
+      ],
+      "biosamples_id": "SAMEA2614075",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Universitätsklinikum Bonn"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2614021",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": "66540007",
+      "name": "UKBi003-A",
+      "primary_cell_type": {
+        "name": "Dermal Fibroblast"
+      },
+      "primary_disease": {
+        "doid": "DOID:1440",
+        "name": "Machado-Joseph disease",
+        "synonyms": [
+          "Azorean disease (disorder)",
+          "MJD",
+          "spinocerebellar ataxia type 3"
+        ]
+      },
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": {
+        "data": {
+          "absence_reprogramming_vectors": false,
+          "excisable": false,
+          "vector": "Virus",
+          "virus": "Retrovirus"
+        },
+        "type": "Integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2614075"
+    },
+    {
+      "alternative_names": [
+        "HPSI0214i-heja_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2627578",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi014-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2627578"
+    },
+    {
+      "alternative_names": [
+        ""
+      ],
+      "batches": [
+        {
+          "batch_id": "SAMEG263886",
+          "biosamples_id": "SAMEG263886",
+          "certificate_of_analysis": null,
+          "culture_conditions": null,
+          "images": [],
+          "resource_uri": "/api/v0/batches/SAMEG263886",
+          "vials_at_roslin": null,
+          "vials_shipped_to_ecacc": null,
+          "vials_shipped_to_fraunhoffer": null
+        },
+        {
+          "batch_id": "SAMEG263888",
+          "biosamples_id": "SAMEG263888",
+          "certificate_of_analysis": null,
+          "culture_conditions": null,
+          "images": [],
+          "resource_uri": "/api/v0/batches/SAMEG263888",
+          "vials_at_roslin": null,
+          "vials_shipped_to_ecacc": null,
+          "vials_shipped_to_fraunhoffer": null
+        }
+      ],
+      "biosamples_id": "SAMEA2629457",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "The Hubrecht Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "HUBi001-A",
+      "primary_cell_type": {
+        "name": "Dermal Fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2629457"
+    },
+    {
+      "alternative_names": [
+        "NP0014-6",
+        "NP0014"
+      ],
+      "batches": [
+        {
+          "batch_id": "P001",
+          "biosamples_id": "SAMEG301738",
+          "certificate_of_analysis": {
+            "file": "celllines/2015/10/14/26acbf54-ebd4-4db2-8383-591e8a714a5e/UKKi007-A.P001.CoA.pdf",
+            "md5": "f58f1ec89c71cbcc6b3cd869eeabfdd6"
+          },
+          "culture_conditions": {
+            "co2_concentration": "5%",
+            "culture_medium": "Essential E8",
+            "matrix": "Vitronectin",
+            "o2_concentration": "21%",
+            "passage_method": "EDTA",
+            "temperature": "37C"
+          },
+          "images": [
+            {
+              "image_file": "/media/celllines/2015/10/14/ee7efb9b-29d7-480a-aedb-8ece0f4bf092/20141027%20UKKi007-A%20x10%20CONFLUENCE%201-4.jpg",
+              "image_md5": "72a1b71eea90597350adbbf9f8b7d522",
+              "magnification": "10x",
+              "time_point": "Confluence"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/e1a1b16f-f22d-41ef-987d-0cc6fbf34c7c/20141024%20UKKi007-A%20x4%2048hr%20pos_MEHfi5B.jpg",
+              "image_md5": "06cc774afba758322456ef6a7dc54b2b",
+              "magnification": "4x",
+              "time_point": "48 hours post-passage"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/2f96f1f6-2ad6-48e2-8eb3-2cadb3bb1f07/20141024%20UKKi007-A%20x10%2048hr%20po_N5nbSSm.jpg",
+              "image_md5": "56f7db38ad2332b3c01d6941facbf95b",
+              "magnification": "10x",
+              "time_point": "48 hours post-passage"
+            },
+            {
+              "image_file": "/media/celllines/2015/10/14/ea2e497b-c5cc-4eaf-892d-426a646243f1/20141027%20UKKi007-A%20x4%20CONFLUENCE%201-4.jpg",
+              "image_md5": "ac24443d2000db702b937edff203852f",
+              "magnification": "4x",
+              "time_point": "Confluence"
+            }
+          ],
+          "resource_uri": "/api/v0/batches/SAMEG301738",
+          "vials_at_roslin": null,
+          "vials_shipped_to_ecacc": null,
+          "vials_shipped_to_fraunhoffer": 0
+        }
+      ],
+      "biosamples_id": "SAMEA2629464",
+      "cellline_karyotype": {
+        "karyotype": "46, XX",
+        "passage_number": "34"
+      },
+      "depositor": {
+        "name": "Klinikum der Universität zu Köln"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2629512",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": "66540001",
+      "name": "UKKi007-A",
+      "primary_cell_type": {
+        "name": "human dermal fibroblasts"
+      },
+      "primary_disease": {
+        "doid": "DOID:10273",
+        "name": "heart conduction disease",
+        "synonyms": [
+          "heart rhythm disease"
+        ]
+      },
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": {
+        "data": {
+          "absence_reprogramming_vectors": false,
+          "excisable": false,
+          "vector": "Virus",
+          "virus": "Retrovirus"
+        },
+        "type": "Integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2629464"
+    },
+    {
+      "alternative_names": [
+        "PRPF31 AW"
+      ],
+      "batches": [
+        {
+          "batch_id": "SAMEG301740",
+          "biosamples_id": "SAMEG301740",
+          "certificate_of_analysis": null,
+          "culture_conditions": null,
+          "images": [],
+          "resource_uri": "/api/v0/batches/SAMEG301740",
+          "vials_at_roslin": null,
+          "vials_shipped_to_ecacc": null,
+          "vials_shipped_to_fraunhoffer": null
+        }
+      ],
+      "biosamples_id": "SAMEA2629491",
+      "cellline_karyotype": {
+        "karyotype": null,
+        "passage_number": null
+      },
+      "depositor": {
+        "name": "University of Newcastle"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2629633",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "UNEWi002-A",
+      "primary_cell_type": {
+        "name": "Dermal fibroblas"
+      },
+      "primary_disease": {
+        "doid": "DOID:10584",
+        "name": "retinitis pigmentosa",
+        "synonyms": [
+          "retinitis pigmentosa type 53",
+          "retinitis pigmentosa type 59",
+          "retinitis pigmentosa-1",
+          "RP"
+        ]
+      },
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": {
+        "data": {
+          "vector": "Sendai virus"
+        },
+        "type": "Non-integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2629491"
+    },
+    {
+      "alternative_names": [
+        ""
+      ],
+      "batches": [
+        {
+          "batch_id": "SAMEG301741",
+          "biosamples_id": "SAMEG301741",
+          "certificate_of_analysis": null,
+          "culture_conditions": null,
+          "images": [],
+          "resource_uri": "/api/v0/batches/SAMEG301741",
+          "vials_at_roslin": null,
+          "vials_shipped_to_ecacc": null,
+          "vials_shipped_to_fraunhoffer": null
+        }
+      ],
+      "biosamples_id": "SAMEA2629641",
+      "cellline_karyotype": {
+        "karyotype": null,
+        "passage_number": null
+      },
+      "depositor": {
+        "name": "University of Newcastle"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2629629",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "UNEWi001-A",
+      "primary_cell_type": {
+        "name": "Dermal Fibroblast"
+      },
+      "primary_disease": {
+        "doid": "DOID:10584",
+        "name": "retinitis pigmentosa",
+        "synonyms": [
+          "retinitis pigmentosa type 53",
+          "retinitis pigmentosa type 59",
+          "retinitis pigmentosa-1",
+          "RP"
+        ]
+      },
+      "primary_disease_diagnosed": "1",
+      "reprogramming_method": {
+        "data": {
+          "vector": "Sendai virus"
+        },
+        "type": "Non-integrating vector"
+      },
+      "resource_uri": "/api/v0/cell-lines/SAMEA2629641"
+    },
+    {
+      "alternative_names": [
+        "HPSI0314i-xugn_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2645811",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": null,
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi010-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2645811"
+    },
+    {
+      "alternative_names": [
+        "HPSI0214i-kucg_2"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2645814",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2397923",
+        "gender": "male"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi013-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2645814"
+    },
+    {
+      "alternative_names": [
+        "HPSI0314i-qaqx_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2658084",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398993",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi040-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2658084"
+    },
+    {
+      "alternative_names": [
+        "HPSI0314i-bubh_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2675459",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2434172",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi012-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2675459"
+    },
+    {
+      "alternative_names": [
+        "HPSI0214i-pelm_3"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2678738",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2398777",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi030-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2678738"
+    },
+    {
+      "alternative_names": [
+        "HPSI0314i-hoik_1"
+      ],
+      "batches": [],
+      "biosamples_id": "SAMEA2698315",
+      "cellline_karyotype": null,
+      "depositor": {
+        "name": "Welcome Trust Sanger Institute"
+      },
+      "donor": {
+        "biosamples_id": "SAMEA2399961",
+        "gender": "female"
+      },
+      "donor_age": null,
+      "ecacc_cat_no": null,
+      "name": "WTSIi026-A",
+      "primary_cell_type": {
+        "name": "fibroblast"
+      },
+      "primary_disease": null,
+      "primary_disease_diagnosed": "0",
+      "reprogramming_method": null,
+      "resource_uri": "/api/v0/cell-lines/SAMEA2698315"
+    }
+  ]
+}

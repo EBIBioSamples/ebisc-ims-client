@@ -1,0 +1,8 @@
+
+#Properties specific to EBiSC
+ebisc.api.host:ebisc.douglasconnect.com
+ebisc.api.username:someuser
+ebisc.api.key:somekey
+
+#Logging level properties
+logging.level.uk.ac.ei.biosd.ebisc=TRACE

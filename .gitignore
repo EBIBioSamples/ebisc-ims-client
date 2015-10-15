@@ -1,0 +1,9 @@
+#Java compiled files
+/bin/
+/target/
+#Eclipse files
+.classpath
+.project
+.settings/
+#Project specific file
+src/main/resources/ebisc.properties
