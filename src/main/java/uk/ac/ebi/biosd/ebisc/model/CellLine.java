@@ -15,7 +15,7 @@ public class CellLine {
 	private String ecaccCatNo;
 	private String name;
 	private PrimaryCellType primaryCellType;
-	private Object primaryDisease; //sometimes this is a string, sometimes more
+	private PrimaryDisease primaryDisease; 
 	private String primaryDiseaseDiagnosed;
 	private String resourceURI;
 	
@@ -78,11 +78,11 @@ public class CellLine {
 		this.primaryCellType = primaryCellType;
 	}
 	@JsonProperty("primary_disease")
-	public Object getPrimaryDisease() {
+	public PrimaryDisease getPrimaryDisease() {
 		return primaryDisease;
 	}
 	@JsonProperty("primary_disease")
-	public void setPrimaryDisease(Object primaryDisease) {
+	public void setPrimaryDisease(PrimaryDisease primaryDisease) {
 		this.primaryDisease = primaryDisease;
 	}
 	@JsonProperty("primary_disease_diagnosed")
