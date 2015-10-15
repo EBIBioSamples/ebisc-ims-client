@@ -20,6 +20,7 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import uk.ac.ebi.biosd.ebisc.model.CellLine;
 import uk.ac.ebi.biosd.ebisc.model.CellLinePage;
 
 @Service
@@ -39,7 +40,6 @@ public class IMSDAO {
 	private Logger log = Logger.getLogger(IMSDAO.class);
 	
 	public CellLinePage getCellLinePage(int pageNo) throws RestClientException {
-
 		UriComponents uriComponents = UriComponentsBuilder.newInstance()
 				.scheme("https")
 				.host(apiHost)
@@ -55,6 +55,26 @@ public class IMSDAO {
 		HttpEntity<String> entity = new HttpEntity<String>("parameters", headers);
 		
 		ResponseEntity<CellLinePage> responce = restTemplate.exchange(uriComponents.toUri(), HttpMethod.GET, entity, CellLinePage.class);
+		
+		log.trace("HTTP code = "+responce.getStatusCode());
+		
+		return responce.getBody();
+	}
+	
+	public CellLine getCellLine(String biosampleId) throws RestClientException {
+		UriComponents uriComponents = UriComponentsBuilder.newInstance()
+				.scheme("https")
+				.host(apiHost)
+				.pathSegment("api", "v0", "cell-lines", biosampleId)
+				.build();
+
+		log.trace("URI = "+uriComponents.toUriString());
+		
+		HttpHeaders headers = new HttpHeaders();
+		headers.set("Authorization", "ApiKey "+apiUsername+":"+apiKey);
+		HttpEntity<String> entity = new HttpEntity<String>("parameters", headers);
+		
+		ResponseEntity<CellLine> responce = restTemplate.exchange(uriComponents.toUri(), HttpMethod.GET, entity, CellLine.class);
 		
 		log.trace("HTTP code = "+responce.getStatusCode());
 		
