@@ -69,15 +69,7 @@
 	</repositories>
 	
 	<build>
-	    <plugins>
-	    	<!-- control the name of the jar file created -->
-	    	<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-jar-plugin</artifactId>
-				<configuration>
-					<finalName>${project.build.finalName}</finalName>
-				</configuration>
-			</plugin>       
+	    <plugins>      
 	    	<!-- bundling of dependencies in jar -->
 	        <plugin>
 	            <groupId>org.springframework.boot</groupId>
