@@ -1,7 +1,5 @@
 package uk.ac.ebi.biosd.ebisc;
 
-import java.io.IOException;
-
 import org.apache.log4j.Logger;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -15,10 +13,6 @@ import org.springframework.web.client.RestClientException;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponents;
 import org.springframework.web.util.UriComponentsBuilder;
-
-import com.fasterxml.jackson.core.JsonParseException;
-import com.fasterxml.jackson.databind.JsonMappingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 
 import uk.ac.ebi.biosd.ebisc.model.CellLine;
 import uk.ac.ebi.biosd.ebisc.model.CellLinePage;
